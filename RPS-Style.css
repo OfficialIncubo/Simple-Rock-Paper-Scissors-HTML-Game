@@ -1,0 +1,52 @@
+body
+{
+    background-color: black;
+}
+
+p
+{
+    color: white;
+    font-family: Arial;
+}
+
+p2
+{
+    color: white;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.playermove-button
+{
+    border:  3px solid white;
+    background-color: transparent;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.reset-button
+{
+    background-color: white;
+    border: none;
+    padding:  6px 10px;
+    font-family: Verdana;
+    cursor: pointer;
+}
+
+.result
+{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS';
+}
+
+.score
+{
+    font-family: 'Courier New';
+    font-weight: bold;
+    margin-top: 50px;
+}
